@@ -29,10 +29,11 @@ Pada fitur ini, dari semua hasil perhitungan, entah itu volume, luas bangun data
 
 4.	Binary Tree
 Pada fitur ini, kami membuat sebuah menu baru yang tidak sesuai dengan tujuan dari program yang kami buat, di mana pada fitur ini mencatat nomor absen serta nama. Binary Tree ini dilengkapi dengan fitur insert, edit, delete, dan search.
-1. Insert : fitur ini berfungsi dalam menambahkan node baru, yaitu data berupa nomor absen dan nama.
-2. Edit : fitur ini berfungsi dalam mengedit node yang sudah ada, yaitu dengan mengubah nama pada suatu nomor absen tertentu.
-3. Delete : fitur ini berfungsi dalam menghapus node yang sudah ada.
-4. Search : fitur ini berfungsi dalam mencari nama berdasarkan nomor absen yang sudah didata.
+      
+Insert : fitur ini berfungsi dalam menambahkan node baru, yaitu data berupa nomor absen dan nama.
+Edit : fitur ini berfungsi dalam mengedit node yang sudah ada, yaitu dengan mengubah nama pada suatu nomor absen tertentu.
+Delete : fitur ini berfungsi dalam menghapus node yang sudah ada.
+Search : fitur ini berfungsi dalam mencari nama berdasarkan nomor absen yang sudah didata.
 
 5.	Exit
 Pada fitur ini, user akan keluar dari program dan sudah menyelesaikan penggunaan program. 
